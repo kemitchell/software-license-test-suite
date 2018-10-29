@@ -121,3 +121,8 @@
   family: system software
   genus: kernels
   url: https://www.linuxfoundation.org/
+
+- name: Taiga
+  family: web applications
+  genus: task management
+  url: https://taiga.io/

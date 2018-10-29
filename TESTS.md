@@ -172,6 +172,12 @@ distributed to end users: partially
 
 modified for use: no
 
+### Taiga
+
+Task Management
+
+<https://taiga.io/>
+
 ## Application
 
 ### Inkscape
