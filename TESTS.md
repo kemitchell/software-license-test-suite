@@ -4,7 +4,7 @@
 
 ### Inkscape
 
-Image Editor
+Applications / Image Editor
 
 <https://inkscape.org/>
 
@@ -14,7 +14,7 @@ modified for use: no
 
 ### Firefox
 
-Web Browsers
+Applications / Web Browsers
 
 <https://www.firefox.org>
 
@@ -22,7 +22,7 @@ Web Browsers
 
 ### MongoDB
 
-Networked
+Databases / Networked
 
 <https://www.mongodb.com/>
 
@@ -32,7 +32,7 @@ modified for use: no
 
 ### SQLite
 
-Embedded
+Databases / Embedded
 
 <https://www.sqlite.org/index.html>
 
@@ -42,7 +42,7 @@ modified for use: no
 
 ### MySQL
 
-Networked
+Databases / Networked
 
 <https://www.mysql.com/>
 
@@ -54,7 +54,7 @@ modified for use: no
 
 ### Browserify
 
-Bundlers
+Developer Tools / Bundlers
 
 <http://browserify.org/>
 
@@ -64,7 +64,7 @@ modified for use: no
 
 ### Standard
 
-Linters
+Developer Tools / Linters
 
 <https://standardjs.com/>
 
@@ -74,7 +74,7 @@ modified for use: no
 
 ### npm
 
-Package Managers
+Developer Tools / Package Managers
 
 <https://www.npmjs.com>
 
@@ -84,7 +84,7 @@ modified for use: no
 
 ### gofmt
 
-Prettifiers
+Developer Tools / Prettifiers
 
 <https://golang.org/cmd/gofmt/>
 
@@ -94,7 +94,7 @@ modified for use: no
 
 ### UglifyJS
 
-Minifiers
+Developer Tools / Minifiers
 
 <https://www.npmjs.com/package/uglify-js>
 
@@ -104,7 +104,7 @@ modified for use: no
 
 ### GDB
 
-Debuggers
+Developer Tools / Debuggers
 
 <https://www.gnu.org/software/gdb/>
 
@@ -114,7 +114,7 @@ modified for use: no
 
 ### GCC
 
-Compilers
+Developer Tools / Compilers
 
 <https://www.gnu.org/software/gcc/>
 
@@ -124,7 +124,7 @@ modified for use: no
 
 ### Atom
 
-Editors
+Developer Tools / Editors
 
 <https://atom.io/>
 
@@ -134,7 +134,7 @@ modified for use: no
 
 ### The Silver Searcher
 
-Search Applications
+Developer Tools / Search Applications
 
 <https://geoff.greer.fm/ag/>
 
@@ -146,7 +146,7 @@ modified for use: no
 
 ### Ruby on Rails
 
-Web Application
+Framework / Web Application
 
 <https://rubyonrails.org/>
 
@@ -158,7 +158,7 @@ modified for use: no
 
 ### Python
 
-System
+Interpreter / System
 
 <https://rubyonrails.org/>
 
@@ -168,7 +168,7 @@ modified for use: no
 
 ### Clojure
 
-Runtime
+Interpreter / Runtime
 
 <https://clojure.org/>
 
@@ -180,7 +180,7 @@ modified for use: no
 
 ### jQuery
 
-Front-End Javascript
+Libraries / Front-End Javascript
 
 <https://jquery.com/>
 
@@ -190,7 +190,7 @@ modified for use: no
 
 ### node-semver
 
-General
+Libraries / General
 
 <https://www.npmjs.com/package/semver>
 
@@ -202,7 +202,7 @@ modified for use: no
 
 ### Linux
 
-Kernels
+System Software / Kernels
 
 <https://www.linuxfoundation.org/>
 
@@ -210,7 +210,7 @@ Kernels
 
 ### GitLab
 
-Source Code Control
+Web Applications / Source Code Control
 
 <https://www.gitlab.org>
 
@@ -220,7 +220,7 @@ modified for use: no
 
 ### Taiga
 
-Task Management
+Web Applications / Task Management
 
 <https://taiga.io/>
 

@@ -19,7 +19,7 @@ Array.from(families.keys())
     console.log(`## ${titleize(family)}\n`)
     for (let test of families.get(family)) {
       console.log(`### ${test.name}\n`)
-      console.log(titleize(test.genus) + '\n')
+      console.log(`${titleize(family)} / ${titleize(test.genus)}\n`)
       console.log(`<${test.url}>\n`)
       Object.keys(test)
         .sort()
