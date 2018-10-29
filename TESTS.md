@@ -42,6 +42,16 @@ distributed to end users: no
 
 modified for use: no
 
+### UglifyJS
+
+Minifier
+
+<https://www.npmjs.com/package/uglify-js>
+
+distributed to end users: no
+
+modified for use: no
+
 ### GCC
 
 Compilers
