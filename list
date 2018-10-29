@@ -15,9 +15,13 @@ Array.from(families.keys())
   .sort()
   .forEach(function (family) {
     console.log(`- [ ] ${titleize(family)}\n`)
-    for (let test of families.get(family)) {
-      console.log(`  - [ ] ${test.name}\n`)
-    }
+    Array.from(families.get(family).values())
+      .sort(function (a, b) {
+        return a.name.localeCompare(b.name)
+      })
+      .forEach(function (test) {
+        console.log(`  - [ ] ${test.name}\n`)
+      })
   })
 
 function titleize (string) {

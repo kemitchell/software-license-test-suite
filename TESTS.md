@@ -2,6 +2,12 @@
 
 ## Applications
 
+### Firefox
+
+Applications / Web Browsers
+
+<https://www.firefox.org>
+
 ### Inkscape
 
 Applications / Image Editor
@@ -12,19 +18,33 @@ distributed to end users: no
 
 modified for use: no
 
-### Firefox
-
-Applications / Web Browsers
-
-<https://www.firefox.org>
-
 ## Databases
+
+### libmysql
+
+Databases / Client Libraries
+
+<https://www.mysql.com/>
+
+distributed to end users: maybe
+
+modified for use: no
 
 ### MongoDB
 
 Databases / Networked
 
 <https://www.mongodb.com/>
+
+distributed to end users: no
+
+modified for use: no
+
+### MySQL
+
+Databases / Networked
+
+<https://www.mysql.com/>
 
 distributed to end users: no
 
@@ -40,93 +60,23 @@ distributed to end users: yes
 
 modified for use: no
 
-### MySQL
+## Developer Tools
 
-Databases / Networked
+### Atom
 
-<https://www.mysql.com/>
+Developer Tools / Editors
+
+<https://atom.io/>
 
 distributed to end users: no
 
 modified for use: no
-
-### libmysql
-
-Databases / Client Libraries
-
-<https://www.mysql.com/>
-
-distributed to end users: maybe
-
-modified for use: no
-
-## Developer Tools
 
 ### Browserify
 
 Developer Tools / Bundlers
 
 <http://browserify.org/>
-
-distributed to end users: no
-
-modified for use: no
-
-### Standard
-
-Developer Tools / Linters
-
-<https://standardjs.com/>
-
-distributed to end users: no
-
-modified for use: no
-
-### npm
-
-Developer Tools / Package Managers
-
-<https://www.npmjs.com>
-
-distributed to end users: no
-
-modified for use: no
-
-### gofmt
-
-Developer Tools / Prettifiers
-
-<https://golang.org/cmd/gofmt/>
-
-distributed to end users: no
-
-modified for use: no
-
-### UglifyJS
-
-Developer Tools / Minifiers
-
-<https://www.npmjs.com/package/uglify-js>
-
-distributed to end users: no
-
-modified for use: no
-
-### GDB
-
-Developer Tools / Debuggers
-
-<https://www.gnu.org/software/gdb/>
-
-distributed to end users: no
-
-modified for use: no
-
-### JVM Profiler
-
-Developer Tools / Profilers
-
-<https://eng.uber.com/jvm-profiler/>
 
 distributed to end users: no
 
@@ -142,11 +92,51 @@ distributed to end users: no
 
 modified for use: no
 
-### Atom
+### GDB
 
-Developer Tools / Editors
+Developer Tools / Debuggers
 
-<https://atom.io/>
+<https://www.gnu.org/software/gdb/>
+
+distributed to end users: no
+
+modified for use: no
+
+### gofmt
+
+Developer Tools / Prettifiers
+
+<https://golang.org/cmd/gofmt/>
+
+distributed to end users: no
+
+modified for use: no
+
+### JVM Profiler
+
+Developer Tools / Profilers
+
+<https://eng.uber.com/jvm-profiler/>
+
+distributed to end users: no
+
+modified for use: no
+
+### npm
+
+Developer Tools / Package Managers
+
+<https://www.npmjs.com>
+
+distributed to end users: no
+
+modified for use: no
+
+### Standard
+
+Developer Tools / Linters
+
+<https://standardjs.com/>
 
 distributed to end users: no
 
@@ -157,6 +147,16 @@ modified for use: no
 Developer Tools / Search Applications
 
 <https://geoff.greer.fm/ag/>
+
+distributed to end users: no
+
+modified for use: no
+
+### UglifyJS
+
+Developer Tools / Minifiers
+
+<https://www.npmjs.com/package/uglify-js>
 
 distributed to end users: no
 
@@ -176,21 +176,21 @@ modified for use: no
 
 ## Interpreter
 
-### Python
-
-Interpreter / System
-
-<https://rubyonrails.org/>
-
-distributed to end users: maybe
-
-modified for use: no
-
 ### Clojure
 
 Interpreter / Runtime
 
 <https://clojure.org/>
+
+distributed to end users: maybe
+
+modified for use: no
+
+### Python
+
+Interpreter / System
+
+<https://rubyonrails.org/>
 
 distributed to end users: maybe
 

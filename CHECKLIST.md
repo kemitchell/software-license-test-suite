@@ -2,41 +2,41 @@
 
 - [ ] Applications
 
-  - [ ] Inkscape
-
   - [ ] Firefox
+
+  - [ ] Inkscape
 
 - [ ] Databases
 
-  - [ ] MongoDB
+  - [ ] libmysql
 
-  - [ ] SQLite
+  - [ ] MongoDB
 
   - [ ] MySQL
 
-  - [ ] libmysql
+  - [ ] SQLite
 
 - [ ] Developer Tools
 
+  - [ ] Atom
+
   - [ ] Browserify
-
-  - [ ] Standard
-
-  - [ ] npm
-
-  - [ ] gofmt
-
-  - [ ] UglifyJS
-
-  - [ ] GDB
-
-  - [ ] JVM Profiler
 
   - [ ] GCC
 
-  - [ ] Atom
+  - [ ] GDB
+
+  - [ ] gofmt
+
+  - [ ] JVM Profiler
+
+  - [ ] npm
+
+  - [ ] Standard
 
   - [ ] The Silver Searcher
+
+  - [ ] UglifyJS
 
 - [ ] Framework
 
@@ -44,9 +44,9 @@
 
 - [ ] Interpreter
 
-  - [ ] Python
-
   - [ ] Clojure
+
+  - [ ] Python
 
 - [ ] Libraries
 
