@@ -48,6 +48,8 @@
 
   - [ ] Python
 
+  - [ ] V8
+
 - [ ] Libraries
 
   - [ ] jQuery

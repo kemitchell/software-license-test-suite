@@ -124,6 +124,13 @@
   modified for use: no
   url: https://clojure.org/
 
+- name: V8
+  family: interpreter
+  genus: runtime
+  distributed to end users: maybe
+  modified for use: no
+  url: https://v8.dev/
+
 - name: GitLab
   family: web applications
   genus: source code control

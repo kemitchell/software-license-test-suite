@@ -196,6 +196,16 @@ distributed to end users: maybe
 
 modified for use: no
 
+### V8
+
+Interpreter / Runtime
+
+<https://v8.dev/>
+
+distributed to end users: maybe
+
+modified for use: no
+
 ## Libraries
 
 ### jQuery
