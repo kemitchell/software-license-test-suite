@@ -14,19 +14,19 @@ const BASIC_KEYS = ['name', 'family', 'genus', 'url']
 console.log('# Software License Test Suite\n')
 
 Array.from(families.keys())
-  .sort()
+  .sort(alphabetical)
   .forEach(function (family) {
     console.log(`## ${titleize(family)}\n`)
     Array.from(families.get(family).values())
       .sort(function (a, b) {
-        return a.name.localeCompare(b.name)
+        return alphabetical(a.name, b.name)
       })
       .forEach(function (test) {
         console.log(`### ${test.name}\n`)
         console.log(`${titleize(family)} / ${titleize(test.genus)}\n`)
         console.log(`<${test.url}>\n`)
         Object.keys(test)
-          .sort()
+          .sort(alphabetical)
           .forEach(function (key) {
             if (!BASIC_KEYS.includes(key)) {
               console.log(`${key}: ${test[key]}\n`)
@@ -37,4 +37,8 @@ Array.from(families.keys())
 
 function titleize (string) {
   return inflection.titleize(string)
+}
+
+function alphabetical (a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase())
 }

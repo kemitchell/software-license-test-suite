@@ -12,12 +12,12 @@ for (let test of require('./tests')) {
 console.log('# Software License Test Suite\n')
 
 Array.from(families.keys())
-  .sort()
+  .sort(alphabetical)
   .forEach(function (family) {
     console.log(`- [ ] ${titleize(family)}\n`)
     Array.from(families.get(family).values())
       .sort(function (a, b) {
-        return a.name.localeCompare(b.name)
+        return alphabetical(a.name, b.name)
       })
       .forEach(function (test) {
         console.log(`  - [ ] ${test.name}\n`)
@@ -26,4 +26,8 @@ Array.from(families.keys())
 
 function titleize (string) {
   return inflection.titleize(string)
+}
+
+function alphabetical (a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase())
 }
