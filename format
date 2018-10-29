@@ -13,21 +13,23 @@ const BASIC_KEYS = ['name', 'family', 'genus', 'url']
 
 console.log('# Software License Test Suite\n')
 
-for (let [family, tests] of families.entries()) {
-  console.log(`## ${titleize(family)}\n`)
-  for (let test of tests) {
-    console.log(`### ${test.name}\n`)
-    console.log(titleize(test.genus) + '\n')
-    console.log(`<${test.url}>\n`)
-    Object.keys(test)
-      .sort()
-      .forEach(function (key) {
-        if (!BASIC_KEYS.includes(key)) {
-          console.log(`${key}: ${test[key]}\n`)
-        }
-      })
-  }
-}
+Array.from(families.keys())
+  .sort()
+  .forEach(function (family) {
+    console.log(`## ${titleize(family)}\n`)
+    for (let test of families.get(family)) {
+      console.log(`### ${test.name}\n`)
+      console.log(titleize(test.genus) + '\n')
+      console.log(`<${test.url}>\n`)
+      Object.keys(test)
+        .sort()
+        .forEach(function (key) {
+          if (!BASIC_KEYS.includes(key)) {
+            console.log(`${key}: ${test[key]}\n`)
+          }
+        })
+    }
+  })
 
 function titleize (string) {
   return inflection.titleize(string)

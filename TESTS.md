@@ -1,5 +1,57 @@
 # Software License Test Suite
 
+## Application
+
+### Inkscape
+
+Image Editor
+
+<https://inkscape.org/>
+
+distributed to end users: no
+
+modified for use: no
+
+## Applications
+
+### Firefox
+
+Web Browsers
+
+<https://www.firefox.org>
+
+## Databases
+
+### MongoDB
+
+Networked
+
+<https://www.mongodb.com/>
+
+distributed to end users: no
+
+modified for use: no
+
+### SQLite
+
+Embedded
+
+<https://www.sqlite.org/index.html>
+
+distributed to end users: yes
+
+modified for use: no
+
+### MySQL
+
+Networked
+
+<https://www.mysql.com/>
+
+distributed to end users: no
+
+modified for use: no
+
 ## Developer Tools
 
 ### Browserify
@@ -92,60 +144,6 @@ distributed to end users: no
 
 modified for use: no
 
-## Libraries
-
-### jQuery
-
-Front-End Javascript
-
-<https://jquery.com/>
-
-distributed to end users: yes
-
-modified for use: no
-
-### node-semver
-
-General
-
-<https://www.npmjs.com/package/semver>
-
-distributed to end users: maybe
-
-modified for use: no
-
-## Databases
-
-### MongoDB
-
-Networked
-
-<https://www.mongodb.com/>
-
-distributed to end users: no
-
-modified for use: no
-
-### SQLite
-
-Embedded
-
-<https://www.sqlite.org/index.html>
-
-distributed to end users: yes
-
-modified for use: no
-
-### MySQL
-
-Networked
-
-<https://www.mysql.com/>
-
-distributed to end users: no
-
-modified for use: no
-
 ## Framework
 
 ### Ruby on Rails
@@ -180,6 +178,36 @@ distributed to end users: maybe
 
 modified for use: no
 
+## Libraries
+
+### jQuery
+
+Front-End Javascript
+
+<https://jquery.com/>
+
+distributed to end users: yes
+
+modified for use: no
+
+### node-semver
+
+General
+
+<https://www.npmjs.com/package/semver>
+
+distributed to end users: maybe
+
+modified for use: no
+
+## System Software
+
+### Linux
+
+Kernels
+
+<https://www.linuxfoundation.org/>
+
 ## Web Applications
 
 ### GitLab
@@ -197,32 +225,4 @@ modified for use: no
 Task Management
 
 <https://taiga.io/>
-
-## Application
-
-### Inkscape
-
-Image Editor
-
-<https://inkscape.org/>
-
-distributed to end users: no
-
-modified for use: no
-
-## System Software
-
-### Linux
-
-Kernels
-
-<https://www.linuxfoundation.org/>
-
-## Applications
-
-### Firefox
-
-Web Browsers
-
-<https://www.firefox.org>
 
