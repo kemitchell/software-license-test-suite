@@ -118,7 +118,7 @@
   url: https://www.gitlab.org
 
 - name: Inkscape
-  family: application
+  family: applications
   genus: image editor
   distributed to end users: no
   modified for use: no

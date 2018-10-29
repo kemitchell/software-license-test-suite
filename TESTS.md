@@ -1,6 +1,6 @@
 # Software License Test Suite
 
-## Application
+## Applications
 
 ### Inkscape
 
@@ -11,8 +11,6 @@ Image Editor
 distributed to end users: no
 
 modified for use: no
-
-## Applications
 
 ### Firefox
 
