@@ -33,6 +33,13 @@
   modified for use: no
   url: https://www.npmjs.com/package/uglify-js
 
+- name: GDB
+  family: developer tools
+  genus: debuggers
+  distributed to end users: no
+  modified for use: no
+  url: https://www.gnu.org/software/gdb/
+
 - name: GCC
   family: developer tools
   genus: compilers

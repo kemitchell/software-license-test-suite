@@ -52,6 +52,16 @@ distributed to end users: no
 
 modified for use: no
 
+### GDB
+
+Debuggers
+
+<https://www.gnu.org/software/gdb/>
+
+distributed to end users: no
+
+modified for use: no
+
 ### GCC
 
 Compilers
