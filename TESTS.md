@@ -122,6 +122,16 @@ distributed to end users: no
 
 modified for use: no
 
+### JVM Profiler
+
+Developer Tools / Profilers
+
+<https://eng.uber.com/jvm-profiler/>
+
+distributed to end users: no
+
+modified for use: no
+
 ### GCC
 
 Developer Tools / Compilers

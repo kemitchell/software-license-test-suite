@@ -30,6 +30,8 @@
 
   - [ ] GDB
 
+  - [ ] JVM Profiler
+
   - [ ] GCC
 
   - [ ] Atom
