@@ -160,7 +160,7 @@ distributed to end users: maybe
 
 modified for use: no
 
-## Web App
+## Web Applications
 
 ### GitLab
 
@@ -183,4 +183,12 @@ Image Editor
 distributed to end users: no
 
 modified for use: no
+
+## System Software
+
+### Linux
+
+Kernels
+
+<https://www.linuxfoundation.org/>
 

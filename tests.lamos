@@ -97,7 +97,7 @@
   url: https://clojure.org/
 
 - name: GitLab
-  family: web app
+  family: web applications
   genus: source code control
   distributed to end users: partially
   modified for use: no
@@ -116,3 +116,8 @@
   distributed to end users: no
   modified for use: no
   url: https://geoff.greer.fm/ag/
+
+- name: Linux
+  family: system software
+  genus: kernels
+  url: https://www.linuxfoundation.org/
