@@ -50,6 +50,16 @@ distributed to end users: no
 
 modified for use: no
 
+### libmysql
+
+Databases / Client Libraries
+
+<https://www.mysql.com/>
+
+distributed to end users: maybe
+
+modified for use: no
+
 ## Developer Tools
 
 ### Browserify

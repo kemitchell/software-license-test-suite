@@ -89,6 +89,13 @@
   modified for use: no
   url: https://www.mysql.com/
 
+- name: libmysql
+  family: databases
+  genus: client libraries
+  distributed to end users: maybe
+  modified for use: no
+  url: https://www.mysql.com/
+
 - name: Ruby on Rails
   family: framework
   genus: web application

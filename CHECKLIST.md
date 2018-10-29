@@ -14,6 +14,8 @@
 
   - [ ] MySQL
 
+  - [ ] libmysql
+
 - [ ] Developer Tools
 
   - [ ] Browserify
