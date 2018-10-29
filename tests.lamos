@@ -126,3 +126,8 @@
   family: web applications
   genus: task management
   url: https://taiga.io/
+
+- name: Firefox
+  family: applications
+  genus: web browsers
+  url: https://www.firefox.org

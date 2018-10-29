@@ -198,3 +198,11 @@ Kernels
 
 <https://www.linuxfoundation.org/>
 
+## Applications
+
+### Firefox
+
+Web Browsers
+
+<https://www.firefox.org>
+
