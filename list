@@ -1,0 +1,25 @@
+#!/usr/bin/env node
+const inflection = require('inflection')
+
+let families = new Map()
+
+for (let test of require('./tests')) {
+  let family = test.family
+  if (!families.has(family)) families.set(family, new Set())
+  families.get(family).add(test)
+}
+
+console.log('# Software License Test Suite\n')
+
+Array.from(families.keys())
+  .sort()
+  .forEach(function (family) {
+    console.log(`- [ ] ${titleize(family)}\n`)
+    for (let test of families.get(family)) {
+      console.log(`  - [ ] ${test.name}\n`)
+    }
+  })
+
+function titleize (string) {
+  return inflection.titleize(string)
+}
