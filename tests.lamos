@@ -28,7 +28,7 @@
 
 - name: UglifyJS
   family: developer tools
-  genus: minifier
+  genus: minifiers
   distributed to end users: no
   modified for use: no
   url: https://www.npmjs.com/package/uglify-js

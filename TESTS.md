@@ -44,7 +44,7 @@ modified for use: no
 
 ### UglifyJS
 
-Minifier
+Minifiers
 
 <https://www.npmjs.com/package/uglify-js>
 
