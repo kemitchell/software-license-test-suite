@@ -62,6 +62,16 @@ distributed to end users: no
 
 modified for use: no
 
+### The Silver Searcher
+
+Search Applications
+
+<https://geoff.greer.fm/ag/>
+
+distributed to end users: no
+
+modified for use: no
+
 ## Libraries
 
 ### jQuery

@@ -109,3 +109,10 @@
   distributed to end users: no
   modified for use: no
   url: https://inkscape.org/
+
+- name: The Silver Searcher
+  family: developer tools
+  genus: search applications
+  distributed to end users: no
+  modified for use: no
+  url: https://geoff.greer.fm/ag/
